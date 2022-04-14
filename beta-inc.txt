@@ -1,5 +1,7 @@
 Jagat Koding - Beta
 o Cpp Playlist
+  * Pengertian
+  * Struktur Dasar
 o Database MySQL Playlist
 o CRUD PHP MySQL Bootstrap
 o Playlist Java
